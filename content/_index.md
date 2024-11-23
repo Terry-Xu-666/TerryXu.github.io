@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-11-22
+date: 2022-10-24
 type: landing
 
 design:
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: nasa_the_blue_marble.jpg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
