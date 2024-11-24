@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Tianyang(Terry) Xu
+title: Tianyang Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Tyen-yahng Shoo
+# name_pronunciation: Tyen-yahng Shoo
 
 # Full name (for SEO)
 first_name: Tianyang
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master students in Operation research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
