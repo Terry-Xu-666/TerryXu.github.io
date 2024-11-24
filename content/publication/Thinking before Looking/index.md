@@ -1,8 +1,8 @@
 ---
 title: "Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination"
 authors:
-- Haojie Zheng\*
-- admin\*
+- Haojie Zheng*
+- admin *
 - Ryan Sun
 - Shu Pu
 - Ruoxi Chen
