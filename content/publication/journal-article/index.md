@@ -1,11 +1,13 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- "Someone"
+- "Someone else"
+- "Dr No"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Stanford University"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
