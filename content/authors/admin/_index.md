@@ -172,7 +172,7 @@ skills:
       - name: 
         description: 'Cooking'
         percent: 99
-        icon: cook.svg
+        icon: cook
       - name: Photography
         description: ''
         percent: 80
