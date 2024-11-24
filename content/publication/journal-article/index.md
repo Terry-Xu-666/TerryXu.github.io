@@ -1,13 +1,13 @@
 ---
 title: "An example journal article"
 authors:
-- "Someone"
-- "Someone else"
-- "Dr No"
+  - "Someone"
+  - "Someone else"
+  - "Dr No"
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Stanford University"
+  - Equal contribution
+  - Equal contribution
+  - Stanford University"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
