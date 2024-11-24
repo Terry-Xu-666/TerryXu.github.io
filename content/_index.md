@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My vision is to leverage technology, particularly AI, for social good. As you can see, my academic background spans economics, operations research, data science, and mathematics, and I am now bringing this interdisciplinary expertise into the AI domain. My current work focuses on areas such as multimodal large language model reasoning, digital twin technologies, and enhancing retrieval-augmented generation (RAG) with graph algorithms.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        In the future, I aspire to delve deeper into AI research in areas like social simulation, personalization, and information retrieval. I am currently seeking PhD opportunities, and if my experience resonates with you, please feel free to reach out to me via email. I would also be delighted to connect and explore potential collaborations. 😃
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
