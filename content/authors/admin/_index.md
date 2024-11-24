@@ -78,8 +78,8 @@ education:
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA Economic & Data science minor
+    institution: China Agricultural University
     date_start: 2019-09-01
     date_end: 2023-06-18
     summary: |
@@ -172,7 +172,7 @@ skills:
       - name: 
         description: 'Cooking'
         percent: 99
-        icon: cook
+        icon: cook.svg
       - name: Photography
         description: ''
         percent: 80
