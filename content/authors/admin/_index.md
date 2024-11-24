@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Terry-Xu-666
   - icon: brands/linkedin
-    url: www.linkedin.com/in/terryxu8
+    url: https://www.linkedin.com/in/terryxu8/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Information Retrieval
-  - Reasoning in Multimudal LLM
+  - Reasoning in Multimodal LLM
 
 education:
   - area: MS Operations Research
