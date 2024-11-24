@@ -1,5 +1,5 @@
 ---
-title: "Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination"
+title: "Thinking Before Looking is a way to help MLLM reasoning"
 authors:
 - Haojie Zheng
 - admin
@@ -7,11 +7,9 @@ authors:
 - Shu Pu
 - Ruoxi Chen
 - Lichao Sun
-
-# Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2024-11-15T00:00:00Z"
 doi: ""
@@ -25,8 +23,8 @@ publishDate: "2024-11-15T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination"
+publication_short: "Thinking Before Looking"
 
 abstract: Multimodal large language models (MLLMs) have advanced the integration of visual and linguistic modalities, establishing themselves as the dominant paradigm for visual-language tasks. Current approaches like chain of thought (CoT) reasoning have augmented the cognitive capabilities of large language models (LLMs), yet their adaptation to MLLMs is hindered by heightened risks of hallucination in cross-modality comprehension. In this paper, we find that the thinking while looking paradigm in current multimodal CoT approaches--where reasoning chains are generated alongside visual input--fails to mitigate hallucinations caused by misleading images. To address these limitations, we propose the Visual Inference Chain (VIC) framework, a novel approach that constructs reasoning chains using textual context alone before introducing visual input, effectively reducing cross-modal biases and enhancing multimodal reasoning accuracy. Comprehensive evaluations demonstrate that VIC significantly improves zero-shot performance across various vision-related tasks, mitigating hallucinations while refining the reasoning capabilities of MLLMs.
 # Summary. An optional shortened abstract.
