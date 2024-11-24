@@ -11,7 +11,7 @@ last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master students in Operation research
+role: Master students in Operation Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tianyang Xu is currently a master's student in Operations Research at Columbia University. During his master's studies, he served as a Research Assistant at Lehigh University under the supervision of Professor Lichao Sun. He holds a Bachelor's degree in Economics from China Agricultural University and the University of Colorado Denver, with minors in Mathematics and Data Science.
