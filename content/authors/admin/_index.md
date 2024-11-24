@@ -58,7 +58,9 @@ education:
     date_end: 2025-02-01
     summary: |
       GPA: 3.88/4.0
-      Relevant coursework: Natural Language Processing | Modern Recommendation system | Optimization Methods and Models | AI, Games, Market| Machine Learning for FE and OR | Stochastic models | AI Applications in Finance| Research Training
+
+      Relevant coursework: 
+      - Natural Language Processing | Modern Recommendation system | Optimization Methods and Models | AI, Games, Market| Machine Learning for FE and OR | Stochastic models | AI Applications in Finance| Research Training
   # button:
   #   text: 'Read Thesis'
   #   url: 'https://example.com'
@@ -68,7 +70,9 @@ education:
     date_end: 2023-06-18
     summary: |
       GPA: 3.92/4.0
-      Relevant coursework: Analytical Geometry and Calculus | Applied Linear Algebra | Statistical Theory | Probability Statistics with Computer Applications
+
+      Relevant coursework: 
+      - Analytical Geometry and Calculus | Applied Linear Algebra | Statistical Theory | Probability Statistics with Computer Applications
 
     # Courses included:
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -80,7 +84,9 @@ education:
     date_end: 2023-06-18
     summary: |
       GPA: 3.79/4.0
-      Relevant coursework: Game Theory Economic Apps | Principles of Economics: Microeconomics | Principles of Economics: Macroeconomics | Big Data Analysis and Visualization | Artificial Intelligence | Big Data Mining
+
+      Relevant coursework: 
+      - Game Theory Economic Apps | Principles of Economics: Microeconomics | Principles of Economics: Macroeconomics | Big Data Analysis and Visualization | Artificial Intelligence | Big Data Mining
     # Courses included:
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
