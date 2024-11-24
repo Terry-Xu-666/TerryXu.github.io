@@ -64,9 +64,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: blogs
+    id: Blogs
     content:
-      title: Blogs
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
