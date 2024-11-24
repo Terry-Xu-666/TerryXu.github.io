@@ -52,37 +52,40 @@ interests:
   - Reasoning in Multimudal LLM
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Msc Operations Research
+    institution: Columbia University
+    date_start: 2023-09-01
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA：3.88/4
+      Relevant coursework: Natural Language Processing | Modern Recommendation system | Optimization Methods and Models | AI, Games, Market| Machine Learning for FE and OR | Stochastic models | AI Applications in Finance| Research Training
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BA Economic & Math minor 
+    institution: University of Colorado Denver
+    date_start: 2019-09-01
+    date_end: 2023-06-18
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.92/4.0
+      Relevant coursework: Analytical Geometry and Calculus | Applied Linear Algebra | Statistical Theory | Probability Statistics with Computer Applications
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # Courses included:
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BA Economic & Data science minor
+    institution: 
+    date_start: 2019-09-01
+    date_end: 2023-06-18
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.79/4.0
+      Relevant coursework: Game Theory Economic Apps | Principles of Economics: Microeconomics | Principles of Economics: Macroeconomics | Big Data Analysis and Visualization | Artificial Intelligence | Big Data Mining
+    # Courses included:
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
