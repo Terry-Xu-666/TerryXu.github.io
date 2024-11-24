@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: blogs
     content:
-      title: blogs
+      title: Blogs
       filters:
         folders:
           - event
