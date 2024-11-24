@@ -67,9 +67,10 @@ sections:
     id: blogs
     content:
       title: Blogs
+      count: 5
       filters:
         folders:
-          - event
+          - blogs
     design:
       view: article-grid
       columns: 1
