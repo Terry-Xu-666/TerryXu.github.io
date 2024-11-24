@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'tx2240@columbia.edu'
+    url: 'mailto:tx2240@columbia.edu'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev

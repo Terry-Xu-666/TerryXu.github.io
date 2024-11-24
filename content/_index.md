@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: stacked-waves.svg
           filters:
             brightness: 1.0
           size: cover
@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: Blogs
     content:
       title: Recent & Upcoming Talks
       filters:
