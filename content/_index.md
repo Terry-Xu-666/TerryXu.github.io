@@ -51,11 +51,11 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: "* indicates authors who contributed equally to the work."
       filters:
         folders:
           - publication
