@@ -55,7 +55,7 @@ education:
   - area: MS Operations Research
     institution: Columbia University
     date_start: 2023-09-01
-    date_end: Now
+    date_end: 2025-02-01
     summary: |
       GPA: 3.88/4.0
   # button:
