@@ -1,5 +1,5 @@
 ---
-title: blogs
+title: Blogs
 view: article-grid
 
 # View
