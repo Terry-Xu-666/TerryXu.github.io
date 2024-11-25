@@ -55,7 +55,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "\* _indicates authors who contributed equally to the work_."
+      text: "`*` _indicates authors who contributed equally to the work_."
       filters:
         folders:
           - publication
